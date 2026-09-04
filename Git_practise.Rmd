@@ -11,4 +11,4 @@ qwertyuiop
 
 Status: reconciled between RStudio and Github
 
-
+Learned how to delete and keep files
